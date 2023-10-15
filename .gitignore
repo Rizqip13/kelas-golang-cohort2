@@ -22,3 +22,6 @@ go.work
 
 # macos
 .DS_Store
+
+# sqlite
+*.db
